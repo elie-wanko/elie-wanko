@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>5+ years building and deploying production-ready AI systems (incl. 4 years in international environments).</i>
+  <i>7+ years building and deploying production-ready AI systems (incl. 4 years in international environments).</i>
 </p>
 
 <p align="center">
@@ -41,19 +41,22 @@ I’m a **Data Scientist & ML Engineer** specialized in **NLP** and **Generative
 ---
 
 ## 🧰 Tech stack
-
+** Programming Languages:
+- Python, SQL, R, PySpark
+- 
 **ML / GenAI**
 - NLP (SpaCy, Transformers), LLMs, RAG (LangChain, LlamaIndex, LangSmith, ...)
 - CV (OpenCV), Object Detection (YOLO, Faster R-CNN)
 - TensorFlow, PyTorch, Scikit-learn
 
 **Data / Platforms**
-- Databricks, Dataiku, Spark / PySpark
+- Databricks, Dataiku
 - ChromaDB, Pinecone, MongoDB
 - PostgreSQL, MySQL
 
 **Engineering / MLOps**
-- Docker, Kubernetes, MLflow
+- MLflow
+- Docker, Kubernetes
 - FastAPI, REST APIs 
 - GitHub, GitLab
 
